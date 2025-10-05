@@ -52,25 +52,25 @@ The analysis aims to uncover insights that can assist healthcare professionals a
 
   1. Symptoms Overview:
 
-    Number of patients exhibiting Dizziness, Trembling, Sweating, Chest Pain, and Shortness of Breath.
+  Number of patients exhibiting Dizziness, Trembling, Sweating, Chest Pain, and Shortness of Breath.
 
   2. Lifestyle Insights:
 
-    Relationship between Number of Drinks per Week and Panic Scores.
+  Relationship between Number of Drinks per Week and Panic Scores.
 
-    Correlation between Sleep Hours and Panic Attack Frequency.
+  Correlation between Sleep Hours and Panic Attack Frequency.
 
   3. Demographic Analysis:
 
-    Average Sleep Hours, Panic Score, and Frequency segmented by Age Group and Trigger Reason.
+  Average Sleep Hours, Panic Score, and Frequency segmented by Age Group and Trigger Reason.
 
   4. Panic Attack Duration:
 
-    Distribution of panic attack duration (10, 20, 30, 40 minutes).
+  Distribution of panic attack duration (10, 20, 30, 40 minutes).
 
   5. Filter Options:
 
-    Gender, Trigger Reason, Medical History, and Panic Score (High/Medium/Low).
+  Gender, Trigger Reason, Medical History, and Panic Score (High/Medium/Low).
 
 ## **⚙️ Power BI Design and ETL Process**
 
