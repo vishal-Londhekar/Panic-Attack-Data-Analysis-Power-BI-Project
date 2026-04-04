@@ -562,20 +562,19 @@ Panic-Attack-Analytics-PowerBI/
 > *Export pages from Power BI Desktop: File → Export → Export to PDF, or use the snipping tool for individual page captures. Save to the `Screenshots/` folder.*
 
 ### Page 1 — Panic Attacks (Overview)
-![Overview]![<img width="1141" height="655" alt="image" src="https://github.com/user-attachments/assets/00b2a924-e7ee-4581-b5fe-0aa3c83dfadb" />]()
-
+<img width="1135" height="644" alt="image" src="https://github.com/user-attachments/assets/a0248bba-6e31-44fe-8526-86fd21f91aa4" />
 > Custom branded landing page with narrative textbox and branded PNG. Establishes clinical context and scopes the analytical agenda before stakeholders engage with data.
 
 ### Page 2 — Number of Patients by Symptoms
-![Symptoms](<img width="1130" height="642" alt="image" src="https://github.com/user-attachments/assets/a7bb262e-6abc-4f3e-a7d9-e9c1ec9fcb1c" />)
+<img width="1131" height="639" alt="image" src="https://github.com/user-attachments/assets/dcd619db-915d-4db0-ace8-344e8132e2a2" />
 > 5 horizontal bar charts: Sweating (69.7%), Shortness of Breath (62.2%), Dizziness (51.7%), Trembling (49.2%), Chest Pain (40.6%). Cross-filter interaction between charts.
 
 ### Page 3 — Other Requirements (Lifestyle Analysis)
-![Lifestyle](<img width="1138" height="647" alt="image" src="https://github.com/user-attachments/assets/bf264d3c-39f8-47c7-bfc3-28728aa4adcf" />)
+<img width="1133" height="645" alt="image" src="https://github.com/user-attachments/assets/51c7204c-97b2-42c4-865e-2a24493fee38" />
 > 4 interactive slicers (Panic Score HML, Gender, Trigger, Medical History) driving 3 line charts showing alcohol consumption, sleep hours, and attack duration distributions.
 
 ### Page 4 — Age Group Analysis
-![Age Groups](<img width="1139" height="647" alt="image" src="https://github.com/user-attachments/assets/1cfcd0c9-9ef8-4558-8599-d1e736253125" />)
+<img width="1134" height="640" alt="image" src="https://github.com/user-attachments/assets/ab320f55-7c45-4373-b479-ee0095ed7c29" />
 > Clustered bar chart showing Average Sleep Hours / Panic Score / Attack Frequency by 5 age cohorts (18–25 through 56–65) with Trigger_Reason breakdown overlay.
 
 ---
