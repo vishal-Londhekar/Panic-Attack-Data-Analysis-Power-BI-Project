@@ -14,7 +14,7 @@ A Power BI portfolio project exploring patterns in a panic-attack dataset using 
 
 **Decision support:** Demonstrates how an analyst can organise health-related records into an exploratory dashboard while explicitly avoiding diagnosis, treatment, or clinical claims.
 
-## $1
+## Important disclaimer
 
 This is an exploratory analytics demonstration. It is not a clinical decision-support system, diagnostic tool, treatment recommendation, or substitute for medical advice. The dataset provenance and whether the records are synthetic should be verified before any public or clinical use.
 
