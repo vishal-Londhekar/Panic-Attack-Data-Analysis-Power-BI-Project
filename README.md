@@ -1,8 +1,20 @@
 # Panic Attack Data Analysis — Power BI Healthcare Analytics Demonstration
 
+> **Data Analyst & Business Intelligence Analyst portfolio project**
+
 A Power BI portfolio project exploring patterns in a panic-attack dataset using descriptive analytics, calculated fields, slicers, and interactive visuals.
 
-## Important disclaimer
+## Analyst value
+
+> **Portfolio focus:** Healthcare Analytics Demonstration · Descriptive Reporting · Responsible Data Communication
+
+**Stakeholder lens:** Analytics learners and healthcare-reporting stakeholders, not clinicians making patient decisions.
+
+**Skills demonstrated:** Data-quality review, categorical standardisation, calculated fields, demographic segmentation, slicer design, descriptive KPI reporting, and responsible interpretation.
+
+**Decision support:** Demonstrates how an analyst can organise health-related records into an exploratory dashboard while explicitly avoiding diagnosis, treatment, or clinical claims.
+
+## $1
 
 This is an exploratory analytics demonstration. It is not a clinical decision-support system, diagnostic tool, treatment recommendation, or substitute for medical advice. The dataset provenance and whether the records are synthetic should be verified before any public or clinical use.
 
