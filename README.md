@@ -4,6 +4,21 @@
 
 A Power BI portfolio project exploring patterns in a panic-attack dataset using descriptive analytics, calculated fields, slicers, and interactive visuals.
 
+
+## Business problem and decision
+
+### Business problem
+Healthcare-reporting stakeholders may need an accessible way to explore symptom, lifestyle, demographic, and attack-related fields in a health dataset. A dashboard can organise descriptive patterns, but it must not turn observational data into unsupported clinical conclusions.
+
+### Analyst question
+What descriptive patterns and data-quality issues are visible in the records, and which questions could be investigated further with qualified domain experts?
+
+### Decision supported
+An analyst or reporting stakeholder can use the report to identify descriptive trends, data-quality questions, and areas for responsible follow-up. It must not be used to diagnose people, predict individual risk, or recommend treatment.
+
+### Potential success measure
+Success means clear definitions, transparent data provenance, responsible visual language, and accurate communication of uncertainty and limitations.
+
 ## Analyst value
 
 > **Portfolio focus:** Healthcare Analytics Demonstration · Descriptive Reporting · Responsible Data Communication
